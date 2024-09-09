@@ -5,6 +5,7 @@ body {
   width: 100%;
   font-family: "Roboto", sans-serif;
   overflow-x: hidden;
+   background:  linear-gradient(45deg, #010758, #490d61);
 }
 
 .button {

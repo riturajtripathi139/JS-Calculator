@@ -18,10 +18,8 @@ body {
   width: 66px;
   padding: 18px;
   margin: 0 3px;
-  
   border-radius: 40%;
   cursor: pointer;
-  
 }
 
 .button:hover{

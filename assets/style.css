@@ -8,13 +8,24 @@ body {
    background:  linear-gradient(45deg, #010758, #490d61);
 }
 
+.heading{
+  font-weight: 10000;
+  text-align: center;
+  margin-top: 40px;
+}
+
 .button {
   width: 66px;
-  padding: 20px;
+  padding: 18px;
   margin: 0 3px;
-  border: 2px solid black;
-  border-radius: 9px;
+  
+  border-radius: 40%;
   cursor: pointer;
+  
+}
+
+.button:hover{
+  box-shadow: 5px 5px 10px #FF9E00;
 }
 
 .row {
@@ -23,8 +34,8 @@ body {
 .row input {
   width: 275px;
   font-size: 20px;
-  margin: 0;
+  margin-bottom: 20px;
   padding: 10px;
-  border: 2px solid black;
-  border-radius: 5px;
+  border-radius: 10px;
+
 }
